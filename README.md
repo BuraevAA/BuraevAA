@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Aleksandr
+I want to change my profession in order to finally find a favorite activity that will bring pleasure and, of course, a good income
+
+- 🌱 I’m currently learning in GeekBrains 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BuraevAA)  
+
+
 
 <!--
 **BuraevAA/BuraevAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
